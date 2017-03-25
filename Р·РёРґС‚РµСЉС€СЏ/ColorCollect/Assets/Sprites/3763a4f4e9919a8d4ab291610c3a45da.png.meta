@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 3325531e1db0cfc4c82fc90e62db6c99
+timeCreated: 1490429076
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3763a4f4e9919a8d4ab291610c3a45da_0
+    21300002: 3763a4f4e9919a8d4ab291610c3a45da_1
+    21300004: 3763a4f4e9919a8d4ab291610c3a45da_2
+    21300006: 3763a4f4e9919a8d4ab291610c3a45da_3
+    21300008: 3763a4f4e9919a8d4ab291610c3a45da_4
+    21300010: 3763a4f4e9919a8d4ab291610c3a45da_5
+    21300012: 3763a4f4e9919a8d4ab291610c3a45da_6
+    21300014: 3763a4f4e9919a8d4ab291610c3a45da_7
+    21300016: 3763a4f4e9919a8d4ab291610c3a45da_8
+    21300018: 3763a4f4e9919a8d4ab291610c3a45da_9
+    21300020: 3763a4f4e9919a8d4ab291610c3a45da_10
+    21300022: 3763a4f4e9919a8d4ab291610c3a45da_11
+    21300024: 3763a4f4e9919a8d4ab291610c3a45da_12
+    21300026: 3763a4f4e9919a8d4ab291610c3a45da_13
+    21300028: 3763a4f4e9919a8d4ab291610c3a45da_14
+    21300030: 3763a4f4e9919a8d4ab291610c3a45da_15
+    21300032: 3763a4f4e9919a8d4ab291610c3a45da_16
+    21300034: 3763a4f4e9919a8d4ab291610c3a45da_17
+    21300036: 3763a4f4e9919a8d4ab291610c3a45da_18
+    21300038: 3763a4f4e9919a8d4ab291610c3a45da_19
+    21300040: 3763a4f4e9919a8d4ab291610c3a45da_20
+    21300042: 3763a4f4e9919a8d4ab291610c3a45da_21
+    21300044: 3763a4f4e9919a8d4ab291610c3a45da_22
+    21300046: 3763a4f4e9919a8d4ab291610c3a45da_23
+    21300048: 3763a4f4e9919a8d4ab291610c3a45da_24
+    21300050: 3763a4f4e9919a8d4ab291610c3a45da_25
+    21300052: 3763a4f4e9919a8d4ab291610c3a45da_26
+    21300054: 3763a4f4e9919a8d4ab291610c3a45da_27
+    21300056: 3763a4f4e9919a8d4ab291610c3a45da_28
+    21300058: 3763a4f4e9919a8d4ab291610c3a45da_29
+    21300060: 3763a4f4e9919a8d4ab291610c3a45da_30
+    21300062: 3763a4f4e9919a8d4ab291610c3a45da_31
+    21300064: 3763a4f4e9919a8d4ab291610c3a45da_32
+    21300066: 3763a4f4e9919a8d4ab291610c3a45da_33
+    21300068: 3763a4f4e9919a8d4ab291610c3a45da_34
+    21300070: 3763a4f4e9919a8d4ab291610c3a45da_35
+    21300072: 3763a4f4e9919a8d4ab291610c3a45da_36
+    21300074: 3763a4f4e9919a8d4ab291610c3a45da_37
+    21300076: 3763a4f4e9919a8d4ab291610c3a45da_38
+    21300078: 3763a4f4e9919a8d4ab291610c3a45da_39
+    21300080: 3763a4f4e9919a8d4ab291610c3a45da_40
+    21300082: 3763a4f4e9919a8d4ab291610c3a45da_41
+    21300084: 3763a4f4e9919a8d4ab291610c3a45da_42
+    21300086: 3763a4f4e9919a8d4ab291610c3a45da_43
+    21300088: 3763a4f4e9919a8d4ab291610c3a45da_44
+    21300090: 3763a4f4e9919a8d4ab291610c3a45da_45
+    21300092: 3763a4f4e9919a8d4ab291610c3a45da_46
+    21300094: 3763a4f4e9919a8d4ab291610c3a45da_47
+    21300096: 3763a4f4e9919a8d4ab291610c3a45da_48
+    21300098: 3763a4f4e9919a8d4ab291610c3a45da_49
+    21300100: 3763a4f4e9919a8d4ab291610c3a45da_50
+    21300102: 3763a4f4e9919a8d4ab291610c3a45da_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 218
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 218
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 216
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 216
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 183
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 145
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 145
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 144
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 144
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 144
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 144
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 144
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 107
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 106
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 106
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 106
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 104
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 107
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 62
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 62
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 62
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 62
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 62
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 64
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 65
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 21
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 21
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 39
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 39
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 20
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3763a4f4e9919a8d4ab291610c3a45da_51
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
