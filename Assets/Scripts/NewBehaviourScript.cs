@@ -2,33 +2,34 @@
 
 public class NewBehaviourScript : MonoBehaviour
 {
+    private Rigidbody2D rb;
     private int moveDirection;
-    public float acceleration = 5f;
-    bool isActive;
+    public float acceleration = 75f;
+    private bool isActive = false;
 
     void Start()
     {
-
+        this.rb = this.GetComponent<Rigidbody2D>();
     }
 
-    void FixedUpdate()
+    void Update()
     {
-        if (isActive == true)
+        if(isActive)
         {
-            if (moveDirection == 1)
+            if(moveDirection == 1)
             {
-                transform.Translate(new Vector3(acceleration, 0f, 0f));
+                this.rb.AddForce(new Vector3(acceleration, 0f));
             }
             else
             {
-                transform.Translate(new Vector3(-acceleration, 0f, 0f));
+
             }
         }
-
     }
 
-    public void OnPointerDown(int direction)
+    public void ObjectMove(int direction)
     {
+        isActive = true;
         if (direction == 1)
         {
             moveDirection = 1;
@@ -37,11 +38,5 @@ public class NewBehaviourScript : MonoBehaviour
         {
             moveDirection = -1;
         }
-        isActive = true;
-    }
-
-    public void OnPointerUp()
-    {
-        isActive = false;
     }
 }
