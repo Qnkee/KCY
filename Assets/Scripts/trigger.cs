@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class trigger : MonoBehaviour
 {
@@ -31,10 +32,11 @@ public class trigger : MonoBehaviour
 
     public void RiseUp(float Ypos, bool colis, GameObject Rainbow)
     {
-        if (Rainbow.transform.position.y > 0.12f)
+        if (Rainbow.transform.position.y > -0.1060129f)
         {
             colis = false;
-            //End Game
+            //End game win
+            SceneManager.LoadScene("EndGame");
         }
         else
         {
@@ -42,4 +44,5 @@ public class trigger : MonoBehaviour
             Rainbow.transform.position += FillPos;
         }
     }
+
 }
